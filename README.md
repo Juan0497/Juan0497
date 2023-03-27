@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Juan0497
+- 👋 Hi, I’m Juan Fernandez
 - 👀 I’m interested in front-end development
 - 📫 How to reach me Juan97f@gmail.com or https://www.linkedin.com/in/juan-fernandez-91089911a/ 
 <!---
